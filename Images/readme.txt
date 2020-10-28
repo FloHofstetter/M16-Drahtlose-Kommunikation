@@ -1,0 +1,1 @@
+Bilder in diesem Verzeichnis stammen aus dem Skript "Drahtlose Kommunikation - Matlab Rechenübung" von Dipl. -ing Lutz Molle und Prof. Dr. -ing. Markus Nölle aus der Vorlesung Drahtlose Kommunikation an der HTW Berlin.

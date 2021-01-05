@@ -1,0 +1,4 @@
+jupyterlab
+nb-black
+matplotlib
+numpy

@@ -2,3 +2,4 @@ jupyterlab
 nb-black
 matplotlib
 numpy
+tqdm
